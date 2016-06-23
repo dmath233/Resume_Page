@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+	font-family: Helvetica;
+}
+
+header{
+	background-color: #BDC3C7;
+}
+
+.flexbox{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	height: autou;
+}
+
+.flex_child{
+	width: auto;
+	height: auto;
+	margin: auto;
+	text-align: left;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+#interests{
+	clear: all;
+	padding: 0.6em;
+	text-align: center;
+}
+
+nav{
+	background-color: #FCC778;
+}
+
+h2{
+	text-align: center-left;
+	padding-left: 10%;
+	padding-bottom: 0;
+}
+
+aside{
+	
+}
+
+#Courses{
+	padding-left:15%;
+}
+
+.Job{
+	text-decoration: bold;
+	padding-left: 15%;
+	margin-bottom: 0em;
+}
+
+
+
+
